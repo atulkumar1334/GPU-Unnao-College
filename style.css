@@ -1,0 +1,14 @@
+.col-md-12 li{
+    display: inline-block;
+    text-decoration: none;
+    margin: 0 30px;
+   
+}
+.col-md-12 li a{
+    color: white;
+    text-decoration: none;
+}
+.col-md-12 li:hover{
+    color:rgb(143, 127, 9)
+
+}
